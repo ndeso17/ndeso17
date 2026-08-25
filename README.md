@@ -38,25 +38,25 @@ Self-taught developer on a continuous learning journey. I love building things t
 
 ### 🔌 IoT & Embedded Systems
 
-| Project                                                                                 | Description                                                           | Tech |
-| --------------------------------------------------------------------------------------- | --------------------------------------------------------------------- | ---- |
-| [Archon_Transporter](https://github.com/ndeso17/Archon_Transporter)                      | Transport robot                                                       | C++  |
-| [TeleBotGpsTracker](https://github.com/ndeso17/TeleBotGpsTracker)                        | Nodemcu GPS tracker with Telegram bot integration                     | C++  |
-| [Esp32SwitchKipas](https://github.com/ndeso17/Esp32SwitchKipas)                          | ESP32 IoT fan switch                                                  | C++  |
-| [Esp12GpsTrackerTeleBlynk](https://github.com/ndeso17/Esp12GpsTrackerTeleBlynk)          | ESP-12 GPS tracker with Telegram + Blynk                              | C++  |
-| [ESP32BlynkConnection](https://github.com/ndeso17/ESP32BlynkConnection)                  | ESP32 → Blynk IoT connection                                         | C++  |
-| [esp-32s-cam](https://github.com/ndeso17/esp-32s-cam)                                    | ESP32-CAM projects (vision over Wi-Fi)                                | C++  |
-| [Arduino Uno Fingerprint Access](https://github.com/ndeso17/ARDUINOunoEnrollFingerprint) | Fingerprint access control suite — enroll, verify, relay + RF remote | C++  |
-| [MUX74HC4067](https://github.com/ndeso17/MUX74HC4067)                                    | 16-channel multiplexer expansion for Arduino                          | C++  |
-| [krenova2024kotategal](https://github.com/ndeso17/krenova2024kotategal)                  | Krenova 2024 Kota Tegal project                                       | C++  |
+| Project                                                                                 | Description                                                         | Tech |
+| --------------------------------------------------------------------------------------- | ------------------------------------------------------------------- | ---- |
+| [Archon_Transporter](https://github.com/ndeso17/Archon_Transporter)                      | Transport robot                                                     | C++  |
+| [TeleBotGpsTracker](https://github.com/ndeso17/TeleBotGpsTracker)                        | Nodemcu GPS tracker with Telegram bot integration                   | C++  |
+| [Esp32SwitchKipas](https://github.com/ndeso17/Esp32SwitchKipas)                          | ESP32 IoT fan switch                                                | C++  |
+| [Esp12GpsTrackerTeleBlynk](https://github.com/ndeso17/Esp12GpsTrackerTeleBlynk)          | ESP-12 GPS tracker with Telegram + Blynk                            | C++  |
+| [ESP32BlynkConnection](https://github.com/ndeso17/ESP32BlynkConnection)                  | ESP32 → Blynk IoT connection                                       | C++  |
+| [esp-32s-cam](https://github.com/ndeso17/esp-32s-cam)                                    | ESP32-CAM projects (vision over Wi-Fi)                              | C++  |
+| [Arduino Uno Fingerprint Access](https://github.com/ndeso17/ARDUINOunoEnrollFingerprint) | Fingerprint access control suite enroll, verify, relay + RF remote | C++  |
+| [MUX74HC4067](https://github.com/ndeso17/MUX74HC4067)                                    | 16-channel multiplexer expansion for Arduino                        | C++  |
+| [krenova2024kotategal](https://github.com/ndeso17/krenova2024kotategal)                  | Krenova 2024 Kota Tegal project                                     | C++  |
 
 ### 👁️ Computer Vision
 
-| Project                                  | Description                                                                             | Tech   |
-| ---------------------------------------- | --------------------------------------------------------------------------------------- | ------ |
-| [SPARX](https://github.com/ndeso17/SPARX) | Smart Parking Recognition System — face, license plate, vehicle type & color detection | Python |
-| [SIK](https://github.com/ndeso17/SIK)     | Vehicle identification system (digital image processing)                                | Python |
-| [vwdt](https://github.com/ndeso17/vwdt)   | Vehicle/plate related vision tool                                                       | Python |
+| Project                                  | Description                                                                           | Tech   |
+| ---------------------------------------- | ------------------------------------------------------------------------------------- | ------ |
+| [SPARX](https://github.com/ndeso17/SPARX) | Smart Parking Recognition System face, license plate, vehicle type & color detection | Python |
+| [SIK](https://github.com/ndeso17/SIK)     | Vehicle identification system (digital image processing)                              | Python |
+| [vwdt](https://github.com/ndeso17/vwdt)   | Vehicle/plate related vision tool                                                     | Python |
 
 ### 🌐 Web Development
 
@@ -104,10 +104,10 @@ Also contributing to [@mrksvt](https://github.com/mrksvt) projects:
 
 ### 🤝 [@TkisnaeniLly](https://github.com/TkisnaeniLly)
 
-| Project | Description | Tech |
-|---------|-------------|------|
-| [Backend_Database_E-COM](https://github.com/TkisnaeniLly/Backend_Database_E-COM_Teknik_Informatika_3A) | E-Commerce backend (team project, Teknik Informatika 3A) | JavaScript |
-| [Frontend_Database_E-COM](https://github.com/TkisnaeniLly/Frontend_Database_E-COM-Teknik_Informatika_3A) | E-Commerce frontend (team project, opsi ke-2) | Blade |
+| Project                                                                                                 | Description                                              | Tech       |
+| ------------------------------------------------------------------------------------------------------- | -------------------------------------------------------- | ---------- |
+| [Backend_Database_E-COM](https://github.com/TkisnaeniLly/Backend_Database_E-COM_Teknik_Informatika_3A)   | E-Commerce backend (team project, Teknik Informatika 3A) | JavaScript |
+| [Frontend_Database_E-COM](https://github.com/TkisnaeniLly/Frontend_Database_E-COM-Teknik_Informatika_3A) | E-Commerce frontend (team project, opsi ke-2)            | Blade      |
 
 <p align="right">
   <a href="https://github.com/ndeso17?tab=repositories"><b>View all repositories →</b></a>
@@ -126,5 +126,5 @@ Also contributing to [@mrksvt](https://github.com/mrksvt) projects:
 ---
 
 <p align="center">
-  <i>Always learning, always building. Open to collaboration — let's create something together!</i>
+  <i>Always learning, always building. Open to collaboration let's create something together!</i>
 </p>
