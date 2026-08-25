@@ -86,7 +86,7 @@ Self-taught developer on a continuous learning journey. I love building things t
 | [CreateSubdomainOnLocalhost](https://github.com/ndeso17/CreateSubdomainOnLocalhost) | Localhost subdomains via Bind9 | PHP   |
 | [ssl-lokal-nginx](https://github.com/ndeso17/ssl-lokal-nginx)                       | Local SSL setup for nginx      | Shell |
 | [easyLinuxWebServer](https://github.com/ndeso17/easyLinuxWebServer)                 | Easy Linux web server setup    | Shell |
-| [bind9](https://github.com/ndeso17/bind9)                                           | Local Bind9 DNS records        | —    |
+| [bind9](https://github.com/ndeso17/bind9)                                           | Local Bind9 DNS records        | -     |
 
 ## 🤝 Contributions
 
