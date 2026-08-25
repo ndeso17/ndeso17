@@ -102,6 +102,13 @@ Also contributing to [@mrksvt](https://github.com/mrksvt) projects:
 | [ArsipSuratCSharp](https://github.com/mrksvt/ArsipSuratCSharp)                       | Letter archive system (C# course project)     | C#         |
 | [presensi](https://github.com/mrksvt/presensi)                                       | Attendance system (algorithms course project) | EJS        |
 
+### 🤝 [@TkisnaeniLly](https://github.com/TkisnaeniLly)
+
+| Project | Description | Tech |
+|---------|-------------|------|
+| [Backend_Database_E-COM](https://github.com/TkisnaeniLly/Backend_Database_E-COM_Teknik_Informatika_3A) | E-Commerce backend (team project, Teknik Informatika 3A) | JavaScript |
+| [Frontend_Database_E-COM](https://github.com/TkisnaeniLly/Frontend_Database_E-COM-Teknik_Informatika_3A) | E-Commerce frontend (team project, opsi ke-2) | Blade |
+
 <p align="right">
   <a href="https://github.com/ndeso17?tab=repositories"><b>View all repositories →</b></a>
 </p>
