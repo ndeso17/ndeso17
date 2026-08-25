@@ -113,9 +113,7 @@ Also contributing to [@mrksvt](https://github.com/mrksvt) projects:
   <br/>
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=ndeso17&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" />
   <br/>
-  <a href="https://git.io/streak-stats">
-    <img src="https://github-streaks.fiedler.sh?user=ndeso17" alt="GitHub Streak" />
-  </a>
+  <a href="https://git.io/streak-stats"><img src="https://github-streaks.fiedler.sh?user=ndeso17&hide_border=true&theme=dark&locale=jv&short_numbers=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a>
 </p>
 
 ---
